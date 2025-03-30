@@ -1,0 +1,8 @@
+GET_V3_JOBS = "/v3/jobs"
+V3_JOBS_RUN = "/v3/jobs/run"
+V3_RUN_CMD_LINE = "/v3/jobs/runCmdLine"
+V3_JOBS_DATASET_RUNDATE_BREAKS_DUPES = "/v3/jobs/{dataset}/{runDate}/breaks/dupes"
+V3_JOBS_DATASET_RUNDATE_BREAKS_OUTLIERS = "/v3/jobs/{dataset}/{runDate}/breaks/outliers"
+V3_JOBS_DATASET_RUNDATE_BREAKS_RULES = "/v3/jobs/{dataset}/{runDate}/breaks/rules"
+V3_JOBS_DATASET_RUNDATE_BREAKS_SHAPES = "/v3/jobs/{dataset}/{runDate}/breaks/shapes"
+V3_JOBS_JOBID_WAITFORCOMPLETION = "/v3/jobs/{jobId}/waitForCompletion"
