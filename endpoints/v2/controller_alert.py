@@ -1,5 +1,0 @@
-V2_UPSERT_ALERT = "/v2/upsertalert"
-V2_CREATE_ALERT = "/v2/createalert"
-V2_REMOVE_ALERT = "/v2/removealert"
-V2_GET_ALERTS = "/v2/getalerts"
-V2_GET_ACTIVE_ALERTS_COUNT = "/v2/getactivealertscount"

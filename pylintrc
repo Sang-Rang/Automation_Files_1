@@ -1,8 +1,0 @@
-[MASTER]
-init-hook='import sys; sys.path.append("/path/to/root")'
-[MESSAGES CONTROL]
-disable=C0302,C0114,C0115,C0116,R0801,R0914,R0915,E0401,W0511
-max-args = 7
-[FORMAT]
-max-line-length = 100
-max-public-methods=40

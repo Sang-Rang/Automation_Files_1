@@ -1,6 +1,0 @@
-V2_GET_VERSION = "/v2/getversion"
-V2_GET_ENVIRONMENT = "/v2/getenv"
-V2_GET_ENVIRONMENT_DETAILS = "/v2/getEnvDetails"
-V2_GET_LIST_OF_FILES = "/v2/getlistoffiles"
-V2_CHECK_FILES_V_MAP = "/v2/checkfilesvmap"
-V2_GET_CUSTOMER_NAME = "/v2/getcustomername"

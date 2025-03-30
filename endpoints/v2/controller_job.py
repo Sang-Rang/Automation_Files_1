@@ -1,8 +1,0 @@
-V2_POST_RUN_JOB_JSON = "/v2/run-job-json"
-V2_GET_OWL_CHECK_Q_BY_ID = "/v2/get-owlcheckq-by-id"
-V2_GET_JOB_LOG = "/v2/get-job-log"
-V2_GET_OWL_CHECK_Q = "/v2/getowlcheckq"
-V2_GET_PLATFORM_LOGS = "/v2/get-platform-logs"
-V2_GET_JOB_STATUS_BY_DATASET = "/v2/getjobstatusbydataset"
-V2_JOB_CHART_SERIES = "/v2/job-chart-series"
-V2_GET_IS_PUSHDOWN = "/v2/get-is-pushdown"
