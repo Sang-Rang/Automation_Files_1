@@ -1,0 +1,6 @@
+V2_PUT_SCORECARD = "/v2/putscorecard"
+V2_UPDATE_SCORECARD = "/v2/update-score-card"
+V2_DELETE_SCORECARD = "/v2/deletescorecard"
+V2_GET_DATASET_NAMES = "/v2/getdataassetnames"
+V2_GET_HEATMAP_BY_PAGE = "/v2/getheatmapbypage"
+V2_GET_HEATMAP_BY_DATASET = "/v2/getheatmapbydataset"

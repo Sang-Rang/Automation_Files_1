@@ -1,0 +1,5 @@
+V2_GET_ADMIN_CONFIG = "/v2/getadminconfig"
+V2_GET_APP_CONFIG = "/v2/getappconfig"
+V2_ADD_APP_CONFIG = "/v2/addappconfig"
+V2_GET_TOTAL_BYTES = "/v2/gettotalbytes"
+V2_GET_CLI_OPTIONS = "/v2/getclioptions"

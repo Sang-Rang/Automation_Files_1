@@ -1,0 +1,18 @@
+DGC_INTEGRATIONS_CONNECTIONS_CREDENTIALS = "/dgc/integrations/connections/credentials"
+DGC_INTEGRATIONS_CONNECTIONS_MAPPING = "/dgc/integrations/mapping/connections"
+DGC_INTEGRATION_MAPPING = "/dgc/integrations/mapping"
+DGC_INTEGRATION_MAPPING_CONNECTION_DATABASE = "/dgc/integrations/mapping/connections/{databaseId}"
+DGC_INTEGRATION_MAPPING_SCHEMA = "/dgc/integrations/mapping/schema/{databaseId}"
+DGC_INTEGRATION_MAPPING_TABLE = "/dgc/integrations/mapping/table/{schemaId}"
+DGC_INTEGRATION_MAPPING_COLUMN = "/dgc/integrations/mapping/column/{tableId}"
+DGC_TENANT_MAPPING = "/dgc/integrations/mapping/credentials/{credentialId}/tenant"
+DGC_UPDATE_MAPPING_TENANT = "/dgc/integrations/mapping/tenant/{tenantId}"
+DGC_INTEGRATIONS_MAPPING_SCHEMA = "/dgc/integrations/mapping/schema/jobs"
+DGC_INTEGRATION_MAPPING_SCHEMA_BATCH = "/dgc/integrations/mapping/schema/jobs/batch"
+DGC_INTEGRATION_CANCEL_MAPPING_SCHEMA = "/dgc/integrations/mapping/schema/jobs/{jobId}/cancel"
+DGC_INTEGRATION_GET_AUTO_MAPPING_JOB = "/dgc/integrations/mapping/schema/jobs/{jobId}"
+DGC_INTEGRATION_CONNECTION_MAPPING_FOR_CREDENTIAL = (
+    "/dgc/integrations/mapping/credentials/{credentialId}/connections"
+)
+DGC_INTEGRATION_CONNECTION_MAPPINGS = "/dgc/integrations/mapping/connection/{connectionId}"
+DGC_INTEGRATION_MAPPING_CONNECTION = "/dgc/integrations/mapping/connection"

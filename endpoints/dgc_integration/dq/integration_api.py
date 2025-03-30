@@ -1,0 +1,8 @@
+DGC_INTEGRATIONS_STATUS = "/dgc/integrations/status"
+DGC_INTEGRATIONS_INTEGRATION_JSON = "/dgc/integrations/getdgcjson"
+PUT_DGC_INTEGRATIONS_STATUS = "/dgc/integrations/datasets/{dataset}/integration-status"
+DGC_SUBMIT_INTEGRATIONS_JOB = "/dgc/integrations/jobs"
+DGC_GET_INTEGRATION_JOB_BY_ID = "/dgc/integrations/job/{id}"
+DGC_INTEGRATION_DELETE_DQ_DGC_CONNECTION = "/dgc/integrations/connections/{credentialId}"
+DQ_RESET_INTEGRATION = "/dgc/integrations/resetIntegrations/{dataset}"
+DQ_DATASET_INTEGRATION_STATUS = "/dgc/integrations/status/{dataset}"
